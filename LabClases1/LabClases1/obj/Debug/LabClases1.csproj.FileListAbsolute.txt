@@ -1,0 +1,10 @@
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\bin\Debug\LabClases1.exe.config
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\bin\Debug\LabClases1.exe
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\bin\Debug\LabClases1.pdb
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\obj\Debug\LabClases1.csprojAssemblyReference.cache
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\obj\Debug\LabClases1.csproj.CoreCompileInputs.cache
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\obj\Debug\LabClases1.exe
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\obj\Debug\LabClases1.pdb
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\bin\Debug\Clases.dll
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\bin\Debug\Clases.pdb
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\LabClases1\obj\Debug\LabClases1.csproj.CopyComplete

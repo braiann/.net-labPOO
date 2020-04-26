@@ -1,0 +1,5 @@
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\Clases\bin\Debug\Clases.dll
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\Clases\bin\Debug\Clases.pdb
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\Clases\obj\Debug\Clases.dll
+C:\Users\braia\Documents\.NET\labs\LabPOO\LabClases1\Clases\obj\Debug\Clases.pdb
