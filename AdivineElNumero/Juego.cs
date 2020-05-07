@@ -18,7 +18,7 @@ namespace AdivineElNumero
             while (seguirJugando)
             {
                 Console.WriteLine("JUEGO INICIADO");
-                Jugada j = new Jugada(PreguntarMaximo());
+                JugadaConAyuda j = new JugadaConAyuda(PreguntarMaximo());
 
                 while (!j.Adivino)
                 {
@@ -26,7 +26,7 @@ namespace AdivineElNumero
                 }
                 Console.WriteLine("Adivinaste en " + j.Intentos + " intentos.");
 
-                if (record == -1)
+                if (record == -1) // Si no hay un récord previo grabado, se usa el recién obtenido
                 {
                     record = j.Intentos;
                 }
@@ -59,7 +59,7 @@ namespace AdivineElNumero
             return Console.ReadKey(true).Key.Equals(ConsoleKey.C) ? true : false;
         }
 
-        private void PreguntarNumero(Jugada jugada)
+        private void PreguntarNumero(JugadaConAyuda jugada)
         {
             int numeroIngresado;
             Console.Write("Adivina el número: ");

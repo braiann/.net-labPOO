@@ -28,11 +28,10 @@ namespace AdivineElNumero
             set => adivino = value;
         }
 
-        public bool Comparar(int n)
+        public void Comparar(int n)
         {
             Adivino = Numero == n;
             Intentos++;
-            return Adivino;
         }
         
         public Jugada(int maxNumero)
