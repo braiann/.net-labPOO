@@ -1,0 +1,7 @@
+C:\Users\braia\source\repos\AdivineElNumero\bin\Debug\AdivineElNumero.exe.config
+C:\Users\braia\source\repos\AdivineElNumero\bin\Debug\AdivineElNumero.exe
+C:\Users\braia\source\repos\AdivineElNumero\bin\Debug\AdivineElNumero.pdb
+C:\Users\braia\source\repos\AdivineElNumero\obj\Debug\AdivineElNumero.csprojAssemblyReference.cache
+C:\Users\braia\source\repos\AdivineElNumero\obj\Debug\AdivineElNumero.csproj.CoreCompileInputs.cache
+C:\Users\braia\source\repos\AdivineElNumero\obj\Debug\AdivineElNumero.exe
+C:\Users\braia\source\repos\AdivineElNumero\obj\Debug\AdivineElNumero.pdb
